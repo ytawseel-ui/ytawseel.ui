@@ -1,2 +1,0 @@
-# ytawseel.ui
-Delivery service
